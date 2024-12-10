@@ -1,1 +1,1 @@
-My name is İsa, I'm currently studying at Sakarya University of Applied Sciences, Department of Computer Programming, I am a sophomore. I have knowledge mostly on C#, OOP, ASP.NET, C++ and web design, and I continue to work and improve myself on these subjects.
+Hello I'm İsa, I'm currently studying at Sakarya University of Applied Sciences, Department of Computer Programming, I am a sophomore. I have knowledge mostly on C#, OOP, ASP.NET and web design, and I continue to work and improve myself on these subjects.
