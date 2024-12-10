@@ -1,1 +1,1 @@
-# IsaDogruca
+Adım İsa Doğruca, Sakarya Uygulamalı Bilimler Üniversitesinde Bilgisayar programcılığı bölümünde okuyorum, ikinci sınıfım. Yoğunlukla C# olmak üzere, OOP, ASP.NET, C++ ve web tasarımı üzerine bilgilere sahip olup bu konular üzerinde çalışmalarıma devam ediyorum.
